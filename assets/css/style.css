@@ -114,3 +114,10 @@ span {
     margin-bottom: 50px;
   }
 }
+
+/* Testing dark mode preferences */
+@media (prefers-color-scheme: dark) {
+	.jumbotron {
+    background: linear-gradient(to bottom, var(--highlight), black);
+  }
+}
