@@ -31,8 +31,10 @@ This portfolio is used as a starting point to represent my work, which I will ad
 ### Links
 
 * [Deployed website](https://aoifeedx.github.io/portfolio-bootstrap/)
-* [GitHub code repository](https://github.com/AoifeEdX/portfolio-bootstrap)
-* [Previous challenge portfolio (for reference/comparison only)](https://github.com/AoifeEdX/portfolio-html-css)
+* [GitHub repository](https://github.com/AoifeEdX/portfolio-bootstrap)
+
+* [Previous challenge portfolio (for reference/comparison only)](https://aoifeedx.github.io/portfolio-html-css/)
+* [Previous challenge GitHub repository(for reference/comparison only)](https://github.com/AoifeEdX/portfolio-html-css)
 
 ## Credits
 
